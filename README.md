@@ -1,5 +1,8 @@
 # Sprint3/4 EDGE
-
+## Integrantes
+- Arthur Fellipe Estevão da Silva RM553320
+- Eduardo Pires Escudero RM556527
+- Leonardo Munhoz Prado RM556824
 # **Projeto IoT com ESP32 e MQTT**
 
 ## **Descrição do Projeto**
