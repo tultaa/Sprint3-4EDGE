@@ -4,7 +4,7 @@
 - Eduardo Pires Escudero RM556527
 - Leonardo Munhoz Prado RM556824
 # **Projeto IoT com ESP32 e MQTT**
-
+**Codigo esta dentro do Repo, 'sprintedge.ino'**
 ## **Descrição do Projeto**
 
 Este projeto consiste na criação de um sistema IoT que conecta um **ESP32** a um servidor **MQTT** configurado em uma máquina virtual Ubuntu. O ESP32 coleta dados de sensores de temperatura, umidade e luminosidade e publica essas informações em tópicos MQTT. O servidor MQTT, utilizando o **Mosquitto**, gerencia as mensagens entre o ESP32 e outros dispositivos que podem se conectar ao sistema. A solução permite a comunicação bidirecional, onde o ESP32 também pode receber comandos para acionar um LED.
